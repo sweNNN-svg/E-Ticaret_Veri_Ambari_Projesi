@@ -1,13 +1,4 @@
 
-
-Gerçekçi bir e-ticaret senaryosu üzerinden, PostgreSQL kullanılarak Star Schema veri ambarı modeli oluşturuldu. Veri yükleme stored procedure ile otomatikleştirildi ve analitik sorgularla KPI'lar hesaplandı.
-
----
-
-## 🌟 Amaç
-
-Bu projenin amacı, ileri seviye SQL ve veri modelleme yeteneklerini gösteren, gerçek bir Data Engineer sorumluluğundaki veri ambarı sistemini kurmaktır.
-
 ---
 
 ## 🛠 Kullanılan Teknolojiler
@@ -90,12 +81,6 @@ Projede aşağıdaki KPI'lara yönelik sorgular geliştirildi:
     
 
 Her sorgu, sistemin performansını test etmek ve iş birimi ihtiyaçlarına teknik çözümler sunmak için yazılmıştır.
-
----
-
-## ✅ Sonuçlar
-
-Bu proje, veri ambarı modelleme, SQL stored procedure yazımı, veri yükleme ve analitik sorgulama alanlarında uçtan uca yetkinlik göstermektedir. Gerçek bir veri mühendisliği görev tanımını simüle eden bu yapı, aynı zamanda ileri seviye sorgu geliştirme yeteneğini de ortaya koymaktadır.
 
 ---
 
