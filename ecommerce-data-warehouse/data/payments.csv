@@ -1,0 +1,51 @@
+Payments_ID,Payment_Method,Payment_Status
+PM4000,Bank Transfer,Pending
+PM4001,Bank Transfer,Failed
+PM4002,Cash on Delivery,Pending
+PM4003,Bank Transfer,Paid
+PM4004,Credit Card,Failed
+PM4005,Bank Transfer,Paid
+PM4006,Cash on Delivery,Failed
+PM4007,Credit Card,Pending
+PM4008,PayPal,Failed
+PM4009,Cash on Delivery,Failed
+PM4010,Cash on Delivery,Paid
+PM4011,PayPal,Pending
+PM4012,Cash on Delivery,Paid
+PM4013,Bank Transfer,Pending
+PM4014,PayPal,Paid
+PM4015,Cash on Delivery,Failed
+PM4016,PayPal,Paid
+PM4017,PayPal,Pending
+PM4018,PayPal,Pending
+PM4019,Credit Card,Failed
+PM4020,Cash on Delivery,Pending
+PM4021,Credit Card,Paid
+PM4022,Cash on Delivery,Failed
+PM4023,Bank Transfer,Pending
+PM4024,Bank Transfer,Pending
+PM4025,Bank Transfer,Paid
+PM4026,Cash on Delivery,Paid
+PM4027,PayPal,Failed
+PM4028,PayPal,Pending
+PM4029,Credit Card,Paid
+PM4030,Credit Card,Failed
+PM4031,Bank Transfer,Pending
+PM4032,Credit Card,Pending
+PM4033,Cash on Delivery,Failed
+PM4034,Cash on Delivery,Failed
+PM4035,Credit Card,Paid
+PM4036,Credit Card,Pending
+PM4037,Credit Card,Pending
+PM4038,Credit Card,Pending
+PM4039,Bank Transfer,Failed
+PM4040,Bank Transfer,Paid
+PM4041,Credit Card,Pending
+PM4042,Cash on Delivery,Failed
+PM4043,Bank Transfer,Pending
+PM4044,Cash on Delivery,Paid
+PM4045,PayPal,Pending
+PM4046,Cash on Delivery,Paid
+PM4047,Credit Card,Paid
+PM4048,PayPal,Pending
+PM4049,Bank Transfer,Pending
